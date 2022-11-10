@@ -1,0 +1,41 @@
+/* .nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: gray;
+    margin-bottom: 20px;
+  
+  } */
+  
+  /* a {
+    list-style-type: none;
+    font-size: 18px;
+  } */
+  *{
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  .ullist{
+    display: flex;
+    justify-content: space-around;
+    background-color: #002B5B;
+    padding: 20px;
+    align-items: center;
+    list-style-type: none;
+    /* margin-bottom: 20px; */
+    font-size: 20px;
+    font-weight: bold;
+    
+  }
+  a{
+    /* color: #E8F9FD; */
+    color:whitesmoke;
+    list-style-type: none;
+    cursor: pointer;
+  }
+  
+  .ullist > li{
+    list-style-type: none;
+  }
+  

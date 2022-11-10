@@ -1,0 +1,11 @@
+.oneproductbg{
+    background-color: #8FE3CF;
+    height:100vh
+}
+.oneproduct{
+    padding-top: 40px;
+}
+.oneproduct > button{
+   background-color: #FFD372;
+   cursor: pointer;
+}

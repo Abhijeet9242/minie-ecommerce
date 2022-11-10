@@ -1,0 +1,42 @@
+.prdoductsdiv{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    /* row-gap: 20px; */
+    background-color: #256D85;
+ 
+}
+.productdiv{
+    margin-top: 20px;
+    cursor: pointer;
+}
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+}
+.btnmaindiv{
+   
+    background-color: #8FE3CF;
+
+}
+.btndiv{
+    width: 12%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.btndiv > button{
+    background-color:#2B4865;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+.filtersdiv{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: #8FE3CF;
+    
+}

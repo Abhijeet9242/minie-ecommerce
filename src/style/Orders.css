@@ -1,0 +1,27 @@
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 50%;
+    margin: auto;
+  }
+  .item  > img{
+    width: 100px;
+    height: 100px;
+  }
+  .oid{
+    color: navy;
+    font-weight: bold;
+  }
+  .fprice{
+    font-weight: bold;
+    color: red;
+  }
+  
+  
+  .orders {
+    /* margin-bottom: 120px; */
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    margin-bottom: 30px;
+  }

@@ -1,0 +1,32 @@
+
+.mndiv{
+    background-color: teal;
+    padding: 50px;
+
+}
+.cartitem {
+    width:50%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* margin-bottom: 20px; */
+    background-color: #8FE3CF;
+    padding: 30px;
+    color: black;
+   
+  }
+  .cartitem > img{
+    width: 120px;
+    height: 120px;
+  }
+  .tprice{
+    margin-top: 20px;
+    color: red;
+  }
+
+  .placebtn{
+    background-color: #FFD372;
+    cursor: pointer;
+  }
+ 
